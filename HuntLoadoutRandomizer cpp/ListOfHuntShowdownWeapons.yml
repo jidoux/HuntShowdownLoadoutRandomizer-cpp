@@ -1,0 +1,1048 @@
+#This is a list of weapons, organized in the same way the book of weapons is organized with the 5 categories: Rifles, Pistols, Shotguns, Melee, and Bows.
+#The program will automatically sort each weapon within each category when its run so if you add weapons, just put them into the correct category (or dont, it wont affect the program)
+#This is unintuitive but I have set categories, category 0 means its a fanning weapon (and thus only good close range
+#Rifles:
+Berthier Mle 1892 {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Berthier Mle 1892 Riposte {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Berthier Mle 1892 Deadeye {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Berthier Mle 1892 Marksman {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Caldwell Marathon { # TODO michael thinks its good close range, im not so sure
+Size: Large
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Caldwell Marathon Swift {
+Size: Large
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Drilling {
+Size: Large
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Drilling Handcannon {
+Size: Medium
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Drilling Hatchet {
+Size: Medium
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Lebel 1886 {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Lebel 1886 Aperture {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Lebel 1886 Talon {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Lebel 1886 Marksman {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Mako 1895 Carbine {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Mako 1895 Carbine Aperture {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Mako 1895 Carbine Claw {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Martini-Henry IC1 {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Martini-Henry IC1 Deadeye {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Martini-Henry IC1 Riposte {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Martini-Henry IC1 Marksman {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Martini-Henry IC1 Ironside {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Mosin-Nagant M1891 {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Mosin-Nagant M1891 Obrez {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Mosin-Nagant M1891 Bayonet {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Mosin-Nagant M1891 Obrez Mace {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Mosin-Nagant M1891 Sniper {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Mosin-Nagant M1891 Obrez Drum {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Mosin-Nagant M1891 Avtomat {
+Size: Large
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Nitro Express Rifle {
+Size: Large
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Sparks LRR {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Sparks Pistol {
+Size: Small
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Sparks LRR Silencer {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Sparks LRR Sniper {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Springfield 1866 {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Springfield 1866 Marksman {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Springfield 1866 Compact {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Springfield 1866 Compact Striker {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Springfield 1866 Compact Deadeye {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Springfield 1866 Bayonet {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Springfield M1892 Krag {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Springfield M1892 Krag Bayonet {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Springfield M1892 Krag Sniper {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Vetterli 71 Karabiner {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Vetterli 71 Karabiner Deadeye {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Vetterli 71 Karabiner Marksman {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Vetterli 71 Karabiner Bayonet {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Vetterli 71 Karabiner Silencer {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Vetterli 71 Karabiner Cyclone { # TODO ensure this is also correct, its bad close range right? I think so, michael thinks its good close
+Size: Large
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Winfield M1873 {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Winfield M1873 Aperture {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Winfield M1873 Talon {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Winfield M1873 Swift {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Winfield M1873 Musket Bayonet {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Winfield M1873C {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Winfield M1873C Silencer {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Winfield M1873C Marksman {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Winfield M1873C Vandal {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Winfield M1873C Vandal Striker {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Winfield M1873C Vandal Deadeye {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Winfield M1876 Centennial {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Winfield M1876 Centennial Shorty {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Winfield M1876 Centennial Sniper {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Winfield M1876 Centennial Shorty Silencer {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+Winfield M1876 Centennial Trauma {
+Size: Large
+Good at range: Yes
+Good close range: No
+Levering: Yes
+Fanning: No
+}
+#Pistols:
+Bornheim No. 3 {
+Size: Small
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Bornheim No. 3 Match {
+Size: Medium
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Bornheim No. 3 Silencer {
+Size: Small
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Bornheim No. 3 Extended {
+Size: Small
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Caldwell 92 New Army {
+Size: Small
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Caldwell 92 New Army Swift {
+Size: Small
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Caldwell Conversion Pistol { # TODO ensure this is actually true, that its good at range and bad at close range, muichael says it snot good for range
+Size: Small
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: Yes
+}
+Caldwell Conversion Chain Pistol {
+Size: Small
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: Yes
+}
+Caldwell Conversion Uppercut {
+Size: Small
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: Yes
+}
+Caldwell Conversion Uppercut Precision {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Caldwell Conversion Uppercut Precision Deadeye {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Caldwell Pax {
+Size: Small
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: Yes
+}
+Caldwell Pax Claw {
+Size: Small
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: Yes
+}
+Caldwell Pax Trueshot {
+Size: Small
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: Yes
+}
+Dolch 96 {
+Size: Small
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Dolch 96 Claw {
+Size: Small
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Dolch 96 Deadeye {
+Size: Small
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Dolch 96 Precision {
+Size: Medium
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+LeMat Mark II {
+Size: Small
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: Yes
+}
+LeMat Mark II Carbine {
+Size: Large
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+LeMat Mark II Carbine Marksman {
+Size: Large
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+LeMat Mark II UpperMat {
+Size: Medium
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Nagant M1895 {
+Size: Small
+Good at range: No
+Good close range: No
+Levering: No
+Fanning: Yes
+}
+Nagant M1895 Precision {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Nagant M1895 Silencer {
+Size: Small
+Good at range: No
+Good close range: No
+Levering: No
+Fanning: Yes
+}
+Nagant M1895 Precision Deadeye {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Nagant M1895 Officer {
+Size: Small
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Nagant M1895 Officer Brawler {
+Size: Small
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Nagant M1895 Officer Carbine {
+Size: Large
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Nagant M1895 Officer Carbine Deadeye {
+Size: Large
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Scottfield Model 3 {
+Size: Small
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: Yes
+}
+Scottfield Model 3 Brawler {
+Size: Small
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: Yes
+}
+Scottfield Model 3 Spitfire {
+Size: Small
+Good at range: Yes
+Good close range: Yes
+Levering: No
+Fanning: Yes
+}
+Scottfield Model 3 Precision {
+Size: Medium
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: No
+}
+Scottfield Model 3 Swift {
+Size: Small
+Good at range: Yes
+Good close range: No
+Levering: No
+Fanning: Yes
+}
+#Shotguns:
+Caldwell Rival 78 {
+Size: Large
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Caldwell Rival 78 Handcannon {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Crown &King Auto-5 {
+Size: Large
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Romero 77 {
+Size: Large
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Romero 77 Handcannon {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Romero 77 Talon {
+Size: Large
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Romero 77 Hatchet {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Romero 77 Alamo {
+Size: Large
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Specter 1882 {
+Size: Large
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Specter 1882 Compact {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Specter 1882 Bayonet {
+Size: Large
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Winfield 1887 Terminus {
+Size: Large
+Good at range: No
+Good close range: Yes
+Levering: Yes
+Fanning: No
+}
+Winfield 1887 Terminus Handcannon {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: Yes
+Fanning: No
+}
+Winfield 1893 Slate {
+Size: Large
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Winfield 1893 Slate Riposte {
+Size: Large
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+#Melee Weapons:
+Baseball Bat {
+Size: Small
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Bomb Lance {
+Size: Large
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Cavalry Saber [
+Size: Small
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Combat Axe {
+Size: Small
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Katana {
+Size: Small
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Machete {
+Size: Small
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Railroad Hammer {
+Size: Small
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+#Bows:
+Hand Crossbow {
+Size: Small
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Crossbow {
+Size: Large
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Hunting Bow {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+#This ends the current book of weapons, now I will go into my own categories:
+#Pistol Pairs:
+Bornheim No. 3 Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Bornheim No. 3 Silencer Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Bornheim No. 3 Extended Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Caldwell 92 New Army Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Caldwell 92 New Army Swift Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Caldwell Conversion Pistol Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Caldwell Conversion Chain Pistol Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Caldwell Conversion Uppercut Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Caldwell Pax Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Caldwell Pax Claw Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Caldwell Pax Trueshot Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Dolch 96 Pair [
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Dolch 96 Claw Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Dolch 96 Deadeye Pair [
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+LeMat Mark II Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Nagant M1895 Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Nagant M1895 Silencer Pair [
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Nagant M1895 Officer Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Nagant M1895 Officer Brawler Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Scottfield Model 3 Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Scottfield Model 3 Brawler Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Scottfield Model 3 Spitfire Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Scottfield Model 3 Swift Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+Sparks Pistol Pair {
+Size: Medium
+Good at range: No
+Good close range: Yes
+Levering: No
+Fanning: No
+}
+#Weapons added in the future:
+#empty category because I have every weapon added as of March 2024, including the marathon and mako.
