@@ -24,6 +24,7 @@
     <ProjectGuid>{ae19806f-86bb-4293-8e00-1a17bc2c9640}</ProjectGuid>
     <RootNamespace>HuntLoadoutRandomizercpp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>HuntLoadoutRandomizer</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HuntLoadoutRandomizer cpp.cpp" />
+    <ClCompile Include="HuntLoadoutRandomizer.cpp" />
     <ClCompile Include="Loadout.cpp" />
     <ClCompile Include="UsefulTools.cpp" />
     <ClCompile Include="Weapon.cpp" />
